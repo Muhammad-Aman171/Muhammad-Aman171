@@ -7,11 +7,16 @@ Front-end developer
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [ag3734359@gmail.com](mailto:ag3734359@gmail.com)
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-aman171&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-aman171" /> </p>
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
 
+  
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
